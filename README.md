@@ -10,7 +10,7 @@
 
 
 
-​# **Project Overview**
+​ **#Project Overview**
 
 ​This project focuses on building a dynamic, interactive HR Analytics Dashboard in Tableau using a workforce dataset of 1,480 employees. The primary goal is to help the executive leadership team track corporate health, monitor retention trends, and identify structural flight risks within the organization. 
 
