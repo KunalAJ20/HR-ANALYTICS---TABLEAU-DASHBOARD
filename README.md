@@ -49,5 +49,7 @@ The data pipeline and calculations are built to ensure case insensitivity and ro
 **# Tech Stack & Skills Showcased**
 
 ​Data Visualization: Tableau Desktop (Highlight Tables, Interactive Funnel Filters, Custom Pie & Bar Distributions)
+
 ​Data Engineering: Text Case Standardization (LOWER() functions), Aggregate Logic Control (SUM vs COUNT), Data Type Formatting
-​Analytics: Attrition Risk Modeling, Segmented Cohort Analysis, Descriptive Statistics
+​
+Analytics: Attrition Risk Modeling, Segmented Cohort Analysis, Descriptive Statistics
