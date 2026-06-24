@@ -3,7 +3,11 @@
 <img width="1228" height="763" alt="image" src="https://github.com/user-attachments/assets/ffdf228b-93aa-44bd-bbdb-5de05261b05c" />
 
 
+
+
 <img width="1227" height="755" alt="image" src="https://github.com/user-attachments/assets/eff4b48d-05fe-40f1-a6cf-a603f3328b67" />
+
+
 
 
 ​# **Project Overview**
@@ -12,6 +16,8 @@
 
 ​By transforming raw HR logs into aggregated visual metrics, this dashboard moves beyond basic reporting to uncover specific "risk pockets" related to employee demographics, department structures, and job satisfaction levels.
 The data pipeline and calculations are built to ensure case insensitivity and robust aggregation, providing seamless interactivity when filtering across different departments and age brackets.
+
+
 
 
 #**Key Results & Insights**
@@ -30,6 +36,8 @@ The data pipeline and calculations are built to ensure case insensitivity and ro
 
 ​**3. Overall Satisfaction Index**
 ​Across the entire organization, 461 employees are highly satisfied (Rating 4) compared to 293 who are highly dissatisfied (Rating 1). This leaves a positive satisfaction gap of 168 employees, though the heavy concentration of low satisfaction scores in specific execution-level roles remains a key focus for targeted retention strategies.  
+
+
 ​
 **# Tech Stack & Skills Showcased**
 ​Data Visualization: Tableau Desktop (Highlight Tables, Interactive Funnel Filters, Custom Pie & Bar Distributions)
