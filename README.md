@@ -25,21 +25,30 @@ The data pipeline and calculations are built to ensure case insensitivity and ro
 ​The empirical analysis of the dataset revealed an overall corporate attrition rate of 16.08% (238 out of 1,480 employees have left). The core data breakdowns include:
 
 ​**1. High-Risk Demographics**
+
 ​The Early-Career Flight Risk (Age 18-25): This segment holds the highest specific attrition rate in the company. Young female employees in this bracket face an alarming 41.86% attrition rate (18 out of 43 left), while young male employees sit at 32.50% (26 out of 80 left).  
+
 
 ​Education Tracks: Employees with an educational background in Human Resources (25.93\%) and Technical Degrees (24.24\%) show the highest percentage of departures, indicating heavy market competition for these specialized skillsets.  
 
 ​**2. Departmental and Role Burnout**
+
+
 ​Department Splits: The Sales department experiences the highest attrition rate at 20.67%.
 
 ​Job Satisfaction Clusters: A satisfaction matrix pinpointed core operational roles as the most vulnerable to low morale. Sales Executives lead the organization in extreme dissatisfaction with 70 respondents reporting a Job Satisfaction rating of 1.
 
 ​**3. Overall Satisfaction Index**
+
+
 ​Across the entire organization, 461 employees are highly satisfied (Rating 4) compared to 293 who are highly dissatisfied (Rating 1). This leaves a positive satisfaction gap of 168 employees, though the heavy concentration of low satisfaction scores in specific execution-level roles remains a key focus for targeted retention strategies.  
+
+
 
 
 ​
 **# Tech Stack & Skills Showcased**
+
 ​Data Visualization: Tableau Desktop (Highlight Tables, Interactive Funnel Filters, Custom Pie & Bar Distributions)
 ​Data Engineering: Text Case Standardization (LOWER() functions), Aggregate Logic Control (SUM vs COUNT), Data Type Formatting
 ​Analytics: Attrition Risk Modeling, Segmented Cohort Analysis, Descriptive Statistics
