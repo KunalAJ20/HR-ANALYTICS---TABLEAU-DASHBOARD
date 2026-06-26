@@ -1,11 +1,13 @@
 # HR-ANALYTICS-TABLEAU-DASHBOARD
 
-<img width="1228" height="763" alt="image" src="https://github.com/user-attachments/assets/ffdf228b-93aa-44bd-bbdb-5de05261b05c" />
+
+<img width="1231" height="763" alt="WhatsApp Image 2026-06-26 at 5 00 26 PM" src="https://github.com/user-attachments/assets/bcf1ab4b-e7ce-4bfa-9197-96d4e9c8c049" />
 
 
 
 
-<img width="1227" height="755" alt="image" src="https://github.com/user-attachments/assets/eff4b48d-05fe-40f1-a6cf-a603f3328b67" />
+<img width="1229" height="762" alt="WhatsApp Image 2026-06-26 at 5 00 26 PM (1)" src="https://github.com/user-attachments/assets/6a334547-15aa-43bc-9616-43af1e31c6be" />
+
 
 
 
